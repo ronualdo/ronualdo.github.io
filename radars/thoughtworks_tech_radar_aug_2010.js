@@ -27,4 +27,4 @@ var radar_quadrants = [
 //
 var radar_arcs = [{'r':100,'name':'Adopt'},{'r':200,'name':'Trial'},{'r':300,'name':'Assess'},{'r':400,'name':'Hold'}];
 
-var radar_title = "ThoughtWorks Technology Radar (Aug 2010)";
+var radar_title = "Ronualdo's Tech Radar";
